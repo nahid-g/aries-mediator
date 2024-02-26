@@ -1,0 +1,10 @@
+.aws
+*.db-wal
+*.db-shm
+.env
+postgres-db
+node_modules/
+.DS_Store
+afj/dist/
+__pycache__/
+.vscode
